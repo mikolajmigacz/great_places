@@ -1,16 +1,22 @@
-# great_places
+# Great Places App
 
-A new Flutter project.
+An mobile app where you are able to add place, give it name, take picture using your mobile camera, and select location using your current location or select location from map. Your places are stored in your memory.
 
-## Getting Started
+Technologies used to develop app:
+- Flutter
+- SQLite
 
-This project is a starting point for a Flutter application.
+I used Google Maps Platform for Maps.
 
-A few resources to get you started if this is your first Flutter project:
+## Overview Screen
+![overview](./great_places_sc/login.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Add Place Screen
+![add_place](./great_places_sc/add_place.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Added Place
+![added_place](./great_places_sc/added_place.PNG)
+
+## Place Details
+![place_details](./great_places_sc/place_detail.PNG)
+
